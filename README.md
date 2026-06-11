@@ -35,8 +35,8 @@ O Operador de Pastas e Arquivos é um aplicativo desktop desenvolvido em Electro
 * **Packages:** Possui o Executavel (Mais pesado) e o Setup, ideal para ambientes virtualizados ou servidores.
 
 ### 📥 Instaladores v.1.0.0
-[Clique aqui para baixar o Executavel (.exe)]((https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions))
-[Clique aqui para baixar o Instalador (.exe)]((https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions_setup))
+[Clique aqui para baixar o Executavel (.exe)](https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions)
+[Clique aqui para baixar o Instalador (.exe)](https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions_setup)
 
 
 ## 💖 Apoio Financeiro
