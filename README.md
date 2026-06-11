@@ -48,3 +48,11 @@ Este é um projeto independente voltado para facilitar a migração e auditoria 
 * 🪙 **Chave Pix (Telefone):** `31975063000`
 
 *Todo valor arrecadado é revertido diretamente na infraestrutura de testes e novas melhorias da engine do motor N1.*
+
+## 🕹️ Acesse meu Portal\Portifolio
+
+* **No Projeto N1:** Você irá encontar diversas ferramentas que iram te auxilar no dia a dia da infraestrutura, N1 e N2.
+  
+[Projeto N1](https://projeton1.shop/)
+
+​
