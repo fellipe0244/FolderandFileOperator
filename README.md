@@ -35,14 +35,15 @@ O Operador de Pastas e Arquivos é um aplicativo desktop desenvolvido em Electro
 * **Packages:** Possui o Executavel (Mais pesado) e o Setup, ideal para ambientes virtualizados ou servidores.
 
 ### 📥 Instaladores v.1.0.0
-[Clique aqui para baixar o Instalador (.exe)](LINK_DE_DOWNLOAD_AQUI)
+[Clique aqui para baixar o Executavel (.exe)]((https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions))
+[Clique aqui para baixar o Instalador (.exe)]((https://github.com/fellipe0244/FolderandFileOperator/releases/tag/versions_setup))
 
 
 ## 💖 Apoio Financeiro
 
 Este é um projeto independente voltado para facilitar a migração e auditoria de dados corporativos. Se você deseja contribuir financeiramente com a manutenção do software:
 
-* 💸 **Chave Pix (E-mail):** `seu-email@projeton1.shop`
-* 🪙 **Chave Pix (CNPJ/Aleatória):** `sua-chave-aqui`
+* 💸 **Chave Pix (E-mail):** `fellipeandrade1000@gmail.com`
+* 🪙 **Chave Pix (Telefone):** `31975063000`
 
 *Todo valor arrecadado é revertido diretamente na infraestrutura de testes e novas melhorias da engine do motor N1.*
