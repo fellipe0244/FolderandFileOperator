@@ -5,7 +5,7 @@ Operador de estrutura de diretórios
 
 > **Ferramenta Corporativa de Filtro Temporal e Replicação Estruturada para Migração Digital.**
 
-O **Projeto N1** é um aplicativo desktop desenvolvido em Electron para simplificar e automatizar o processo de migração de arquivos em larga escala. Ele foi projetado especificamente para operadores que precisam mapear acervos digitais e transferir estruturas de diretórios aplicando filtros baseados na data de modificação (`mtime`), garantindo total rastreabilidade histórica. Ideal para ambiente Office 365 (Sharepoint e Teams), ja que as migrações nativas não possuem essa funcionalidade.
+O Operador de Pastas e Arquivos é um aplicativo desktop desenvolvido em Electron para simplificar e automatizar o processo de migração de arquivos em larga escala. Ele foi projetado especificamente para operadores que precisam mapear acervos digitais e transferir estruturas de diretórios aplicando filtros baseados na data de modificação (`mtime`), garantindo total rastreabilidade histórica. Ideal para ambiente Office 365 (Sharepoint e Teams), ja que as migrações nativas não possuem essa funcionalidade.
 
 ---
 
@@ -32,4 +32,17 @@ O **Projeto N1** é um aplicativo desktop desenvolvido em Electron para simplifi
 ## 💻 Requisitos para rodar no SO
 
 * **Sistemas baseados em 64x:** Windows 7, 8, 10, 11 e Windows Server a partir da versão 2012.
-* **Packages:** Possui o Executavel (Mais pesado) e o Setup, ideal para ambientes virtualizados ou servidores. 
+* **Packages:** Possui o Executavel (Mais pesado) e o Setup, ideal para ambientes virtualizados ou servidores.
+
+### 📥 Instaladores v.1.0.0
+[Clique aqui para baixar o Instalador (.exe)](LINK_DE_DOWNLOAD_AQUI)
+
+
+## 💖 Apoio Financeiro
+
+Este é um projeto independente voltado para facilitar a migração e auditoria de dados corporativos. Se você deseja contribuir financeiramente com a manutenção do software:
+
+* 💸 **Chave Pix (E-mail):** `seu-email@projeton1.shop`
+* 🪙 **Chave Pix (CNPJ/Aleatória):** `sua-chave-aqui`
+
+*Todo valor arrecadado é revertido diretamente na infraestrutura de testes e novas melhorias da engine do motor N1.*
