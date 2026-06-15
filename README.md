@@ -9,6 +9,20 @@ O Operador de Pastas e Arquivos é um aplicativo desktop desenvolvido em Electro
 
 ---
 
+## 🆕​ Novas Funções implementadas
+* **🛡️ Sistema de Persistência de Estado e Resiliência a Falhas (Crash-Resilient Logging)** *
+
+Implementação de um mecanismo de tolerância a falhas (*Fault Tolerance*) projetado especificamente para ambientes de servidores sujeitos a desligamentos inesperados, quedas de energia ou reinicializações forçadas durante o processo de replicação.
+
+### ⚙️ Como Funciona
+* **Escrita Síncrona em Tempo Real:** O motor do sistema descarta o acúmulo de logs puramente em memória RAM. A cada arquivo copiado ou erro de permissão mapeado, os dados são descarregados instantaneamente no disco local (`app.getPath('userData')`) via `fs.writeFileSync`.
+* **State Recovery (Recuperação de Estado):** Ao inicializar, o ciclo de vida do Electron intercepta a existência de seções residuais através de canais IPC dedicados.
+* **UI Isolation:** Interface modularizada por abas que isola o console de processamento ativo do painel de restauração histórica.
+
+### 📊 Benefícios Técnicos
+* **Perda Zero de Dados de Auditoria:** Mesmo que o servidor sofra um apagão no meio de uma migração de 100.000 arquivos, o progresso exato até o último milissegundo antes da queda é preservado.
+* **Restauração de Contexto:** O operador pode reatar os relatórios de auditoria em formatos premium (CSV e HTML interativo) diretamente da sessão recuperada.
+
 ## ✨ Principais Funcionalidades
 
 * **Fase 1 — Mapeamento Analítico:** Varredura veloz do disco de origem mostrando volume total de pastas, arquivos, tamanho em gigabytes (GB) e um painel completo com a distribuição do acervo por ano.
